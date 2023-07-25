@@ -5,7 +5,7 @@ import { ReactComponent as BlueDot } from "../../assets/blue-dot.svg";
 import { ReactComponent as OrangeDot } from "../../assets/orange-dot.svg";
 import { ReactComponent as Contact } from "../../assets/contact.svg";
 
-import Button from "../shared/button";
+import Button from "../shared/Button";
 import FloatingButton from "../shared/FloatingButton";
 
 import {

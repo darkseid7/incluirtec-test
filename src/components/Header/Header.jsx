@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 import { ReactComponent as Logo } from "../../assets/logo.svg";
-import Button from "../shared/button";
+import Button from "../shared/Button";
 
 const StyledHeader = styled.header`
   width: 100%;
